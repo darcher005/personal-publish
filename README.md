@@ -10,3 +10,4 @@ It's a project just for me to publish content for who has only github access.
 ## 链接归档
 
 - [新文章](https://mp.weixin.qq.com/s/DNzVMe7mlZwssAbYIJl-mg?scene=334) - 2026-04-01 00:02
+- [mp.weixin.qq.com](https://mp.weixin.qq.com/s/DNzVMe7mlZwssAbYIJl-mg?scene=334) - 2026-04-01 00:04
