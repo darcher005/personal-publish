@@ -11,3 +11,5 @@ It's a project just for me to publish content for who has only github access.
 | 2026-04-01 00:37 | Agentic RL 训练核心问题：环境建模、学习信号、异步数据流、策略优化和基础设施 | [链接](https://mp.weixin.qq.com/s/6gfC8RVuibMyXy7C05Wctw?scene=334) |
 | 2026-04-01 09:38 | 微信文章 | [链接](https://mp.weixin.qq.com/s/GjZ-tFBVwfJwK11F1lP5TQ) |
 | 2026-04-01 09:38 | 微信文章 | [链接](https://mp.weixin.qq.com/s/xnT-HVP3f-l9w0P4ZAWJSA) |
+| 2026-04-01 09:44 | Claude Code 源码深度架构分析 | [链接](https://mp.weixin.qq.com/s/GjZ-tFBVwfJwK11F1lP5TQ) |
+| 2026-04-01 09:44 | 从Claude Code源码看Anthropic的产品野心 | [链接](https://mp.weixin.qq.com/s/xnT-HVP3f-l9w0P4ZAWJSA) |
