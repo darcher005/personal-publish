@@ -9,3 +9,4 @@ It's a project just for me to publish content for who has only github access.
 | 2026-04-01 00:02 | 认知重建之后，步入 Agentic Engineering 的工程革命 | [链接](https://mp.weixin.qq.com/s/ri_lxDGayM-e5A0oAW59Fw?scene=334) |
 | 2026-04-01 00:13 | 大模型的下半场是什么？林俊旸：从 Reasoning Thinking 到 Agentic Thinking | [链接](https://mp.weixin.qq.com/s/DNzVMe7mlZwssAbYIJl-mg?scene=334) |
 | 2026-04-01 00:37 | Agentic RL 训练核心问题：环境建模、学习信号、异步数据流、策略优化和基础设施 | [链接](https://mp.weixin.qq.com/s/6gfC8RVuibMyXy7C05Wctw?scene=334) |
+| 2026-04-01 09:38 | Weixin Official Accounts Platform | [链接](https://mp.weixin.qq.com/s/GjZ-tFBVwfJwK11F1lP5TQ https://mp.weixin.qq.com/s/xnT-HVP3f-l9w0P4ZAWJSA) |
